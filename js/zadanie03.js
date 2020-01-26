@@ -11,7 +11,7 @@ function bigestSumOfTwoElements(array) {
     }
 }
 
-bigestSumOfTwoElements([1,2,3,4]) // => 7
-bigestSumOfTwoElements([]) // => false
-bigestSumOfTwoElements([76]) // => 76
-bigestSumOfTwoElements([23,45,17,12]) // => 68
+bigestSumOfTwoElements([1,2,3,4])
+bigestSumOfTwoElements([])
+bigestSumOfTwoElements([76])
+bigestSumOfTwoElements([23,45,17,12])
